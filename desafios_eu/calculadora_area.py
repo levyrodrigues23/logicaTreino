@@ -1,6 +1,6 @@
 import math
 
-print("===============\nCalculadora de Área\n===============")
+print("<===============>\nCalculadora de Área\n<===============>")
 
 formas = int(input( "Escolha uma forma:\n"
     "1) Triângulo\n"
